@@ -1,4 +1,4 @@
-//#-----------------
+git tag //#-----------------
 //input data
 
 int a = read new ("enter first number");
