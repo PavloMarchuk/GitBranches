@@ -1,0 +1,10 @@
+variant 3.0
+
+user u = new User();
+
+int i = 0;
+public int sum (int a, int b)
+{
+		return a+b;
+}
+
