@@ -12,5 +12,9 @@ public int sum (int a, int b)
 //#-----------------
 //sum data
 
+public int sum(a,b)
+
 //#-----------------
 //output data
+
+publish (sum(a,b));
