@@ -1,10 +1,16 @@
-variant 3.0
+//#-----------------
+//input data
 
-user u = new User();
-
-int i = 0;
+int a = read new ("enter first number");
+int b = read("enter second number");
 public int sum (int a, int b)
 {
 		return a+b;
 }
 
+
+//#-----------------
+//sum data
+
+//#-----------------
+//output data
